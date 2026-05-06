@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Coffee Lab</string>
+
+    <!-- Navegación -->
+    <string name="nav_dashboard">Inicio</string>
+    <string name="nav_beans">Beans</string>
+    <string name="nav_recipes">Recetas</string>
+    <string name="nav_logbook">Bitácora</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">My Coffee Lab</string>
+    <string name="dashboard_register_shot">Registrar shot</string>
+    <string name="dashboard_active_bean">Bean activo</string>
+    <string name="dashboard_active_recipes">Recetas activas hoy</string>
+    <string name="dashboard_shots_today">Shots servidos hoy</string>
+    <string name="dashboard_recent">Últimos registros</string>
+
+    <!-- Beans -->
+    <string name="beans_title">Inventario de Beans</string>
+    <string name="beans_add">Agregar bean</string>
+    <string name="beans_empty">Aún no has registrado beans. Toca + para agregar el primero.</string>
+
+    <!-- Recetas -->
+    <string name="recipes_title">Recetas</string>
+    <string name="recipes_add">Nueva receta</string>
+    <string name="recipes_tab_espresso">Espresso</string>
+    <string name="recipes_tab_v60">V60</string>
+
+    <!-- Bitácora -->
+    <string name="logbook_title">Bitácora</string>
+    <string name="logbook_filter_today">Hoy</string>
+    <string name="logbook_filter_week">Últimos 7 días</string>
+    <string name="logbook_filter_month">Este mes</string>
+
+    <!-- Modal registro rápido -->
+    <string name="quick_log_title">Registro rápido</string>
+    <string name="quick_log_question">¿Cómo salió?</string>
+    <string name="quick_log_good">Bueno</string>
+    <string name="quick_log_ok">Regular</string>
+    <string name="quick_log_bad">Malo</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Coffee brand palette -->
+    <color name="coffee_primary">#FF6F4E37</color>
+    <color name="coffee_primary_dark">#FF4A2C1A</color>
+    <color name="coffee_accent">#FFC97B4A</color>
+    <color name="coffee_accent_light">#FFFBE8D4</color>
+    <color name="coffee_background">#FFFAF6F1</color>
+    <color name="coffee_surface">#FFFFFFFF</color>
+    <color name="coffee_text">#FF3D2418</color>
+    <color name="coffee_text_secondary">#FF6B5645</color>
+
+    <!-- Estados de frescura -->
+    <color name="freshness_good">#FF4CAF50</color>
+    <color name="freshness_warning">#FFFFC107</color>
+    <color name="freshness_bad">#FFF44336</color>
+</resources>
